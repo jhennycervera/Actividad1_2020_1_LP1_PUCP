@@ -1,0 +1,1 @@
+Una parte del archivo tenia tab y no se podia leer la cadena no separaba ese espacio y leia una cadena y el numero que seguia.  --> uni.1   (uni.	1)
